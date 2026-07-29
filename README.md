@@ -94,14 +94,11 @@ evals/                            methodology for testing this properly
 `evals/` doesn't claim a model can't do this unaided. Sometimes it can. The
 claim is that unaided analysis is inconsistent run to run, blind to
 abandonment, contaminated across the two engines, and unstable when you push
-back — and that all four are measurable. Method and metrics are in
-`evals/README.md`.
+back — and that all four are measurable.
 
 ## Privacy
 
 Interview transcripts contain another person's words. `.gitignore` excludes
 fixtures and common transcript formats by default. Don't commit real ones.
 
-## License
 
-MIT.
